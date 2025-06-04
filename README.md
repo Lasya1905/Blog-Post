@@ -1,4 +1,4 @@
-# WSE Blog Post
+# WSE Blog Post - 23951A055U
 
 ## Project Overview
 This repository contains files for the WSE Blog Post project created during a hackathon. The blog is designed to share insights, tutorials, and updates related to web software engineering (WSE) topics. It features a responsive design, interactive elements, and a collection of carefully crafted articles.
